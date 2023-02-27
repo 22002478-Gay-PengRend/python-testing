@@ -8,7 +8,7 @@ elif sign == "-":
     ans = num1 - num2
 elif sign == "*":
     ans = num1 * num2
-elif sing == "/":
+elif sign == "/":
     ans = num1 / num2
 else:
     print("Invalid input")
